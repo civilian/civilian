@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 ### ⚡ Fun fact:
 
 - 💻 Passionate to technology and the 🌎 future.
-- Python 🐍 in depth, effective in a lot of other languages but I specialize in learning and adapting.
+- Python 🐍 in depth and effective in a lot of other languages. I understand my core technologies really deep to be more efficient and I try to keep learning and adapting.
 - 📫 How to reach me: chamatoscar@gmail.com, https://twitter.com/oscarchamatc
 
 ## My Github top langs
