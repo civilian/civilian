@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ## My Github stats
 ![sntwandy's github stats](https://github-readme-stats.vercel.app/api?username=civilian&show_icons=true&theme=dark)
 <p >
-<a href="https://github.com/civilian"><img src="https://img.shields.io/github/followers/Robertrm0?label=follow&style=social" /></a>
+<a href="https://github.com/civilian"><img src="https://img.shields.io/github/followers/civilian?label=follow&style=social" /></a>
 </p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=civilian&" alt="civilian" /></p>
 
