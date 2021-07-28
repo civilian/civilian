@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 <p align="left">
 <a href="mailto:chamatoscar@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/civilian/civilian/main/Gmail_icon_(2020).svg" alt="chamatoscar@gmail.com" height="30" width="40" /></a>
 <a href="https://twitter.com/oscarchamatc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="oscarchamatc" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/oscarchamatc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oscarchamatc" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/oscar-chamat-58051a131" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oscarchamatc" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
