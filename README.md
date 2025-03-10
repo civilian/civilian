@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=civilian" alt="civilian" /></a> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=civilian&label=Profile%20views&color=0e75b6&style=flat" alt="civilian" /> </p>
 
-<p align="left"> <a href="https://twitter.com/oscarchamatc" target="blank"><img src="https://img.shields.io/twitter/follow/oscarchamatc?logo=twitter&style=for-the-badge" alt="oscarchamatc" /></a> </p>
+<p align="left"> <a href="https://twitter.com/esquizowin" target="blank"><img src="https://img.shields.io/twitter/follow/oscarchamatc?logo=twitter&style=for-the-badge" alt="oscarchamatc" /></a> </p>
 
 
 <h3 align="left">Connect with me:</h3>
