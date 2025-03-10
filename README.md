@@ -43,9 +43,10 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="https://www.youtube.com/@esquizowin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube esquizowin" height="30" width="40" /></a>
 <a href="mailto:chamatoscar@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/civilian/civilian/main/Gmail_icon_(2020).svg" alt="chamatoscar@gmail.com" height="30" width="40" /></a>
-<a href="https://twitter.com/oscarchamatc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="oscarchamatc" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/oscar-chamat-58051a131" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oscarchamatc" height="30" width="40" /></a>
+<a href="https://twitter.com/esquizowin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter esquizowin" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/oscar-chamat-58051a131" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkenind oscar chamat" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
