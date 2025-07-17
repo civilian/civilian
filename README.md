@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### Hi there 👋 I'm Oscar, Software Engineer.
 
-- 🌱 I’m currently learning React Native for a small tool for myself, python for backend -more in depth-, and really working hard on my English.
+- 🌱 I’m currently working in my youtube channel step by step and joining any community that wants me, and really working on my English.
 
 
 ## My Github stats
